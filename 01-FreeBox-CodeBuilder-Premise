@@ -41,6 +41,12 @@ First Chain---
       Fifth Stack
                 As Repeat
                 As Comp
+                As Release
+                As Write
 
 So this basically allows for a full minecraft template of a switch/logic.
-              
+So that it knows the configuration for it, and it is safe to use, and then once it is activated the correct usage it will Release/Write to the markup of that inquiry in function being applied.
+(So it will either successfully transcribe or not, allocate partially for, the intended code-sequence of which is registered as "0's and 1's  in the depths of its stacks Z)---(and will afford coordinate-vectors/byte-chains) there of in its write-up/mark-up)
+Such as it will write 0 or 1. Then it will begin to write in succession the rate of which 0's and 1's occur in their consecutive vector (0000, 1111, 0100) and form a coordinate/chain of these in a code-string.
+And this will be registered to the circuit as a series of pulse/signal that means a pathway.
+And that pathway will be desginated in which it will then occur/afford the protocol of whatsoever byte it placed/requested. (so that --- (0000, 1111, 0100) could mean "gate# to xor for Block#" and forms a variable for that in its address. And that variable is registered to be used in its signal/pulse by design/circuit in anticipation of the request)---so when the request is made, the channel is ready.
