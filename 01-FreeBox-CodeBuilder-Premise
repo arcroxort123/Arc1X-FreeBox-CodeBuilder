@@ -58,10 +58,32 @@ And the fourth chain will detect the command of the third.
 And the fifth chain will execute the command if it is valid so far.
 And the sixth chain will interpret the command as a library call.
 And the seventh chain will recieve the call and transfer the extension
-And the eigth chain will deliver an extension of every call to a throughput in the next chain.
+And the eighth chain will deliver an extension of every call to a throughput in the next chain.
 And the ninth chain will provide as a service of the extension
 And the tenth chain will post the resulting packet of this service
 And the eleventh chain will catalogue the packet based on its memory to which is computed.
 And the twelveth chain intend/append the catalogue as connection
 And the thirteenth chain will base the connection in queue to a cpu-syntax which will be set to directory in mem-call.
 And the memcall will organize and inevitably rebuild into cache-file when access in frame.
+
+Blocks will be organized next in priority of the memcall checking for block-use/post-calling.
+So each chain will have their own space for more blocks for more stacks which are configured to a memcall of the first block of their chain.
+
+First Chain
+  First Block---has call
+  Second Block---has post of call
+  Third Block---has relay of post
+  Fourth Block---has fillout of post
+Second Chain---will coorealate to first chain as readout
+Third Chain---Will toggle as readout to loadout
+Fourth Chain---Will set as frame to boot/process
+Fifth Chain---will allow current settings in express
+Sixth Chain---will optimize for configuration
+Seventh Chain---Will formulate data for template
+Eighth Chain---Will achieve Template for reference
+Ninth Chain---Provide to Source
+Tenth Chain---will mitigate source response
+Eleventh Chain---Will mediate outcome of source-print
+Twelveth Chain---Will port to connection or virtualize
+Thirteenth Chain ---Propogate Diagnostic of Feed/Loop
+And the memcall will follow/touch on cache awareness to which is alter/morph of origin/source.
