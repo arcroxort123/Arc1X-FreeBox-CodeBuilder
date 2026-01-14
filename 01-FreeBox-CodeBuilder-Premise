@@ -50,3 +50,4 @@ So that it knows the configuration for it, and it is safe to use, and then once 
 Such as it will write 0 or 1. Then it will begin to write in succession the rate of which 0's and 1's occur in their consecutive vector (0000, 1111, 0100) and form a coordinate/chain of these in a code-string.
 And this will be registered to the circuit as a series of pulse/signal that means a pathway.
 And that pathway will be desginated in which it will then occur/afford the protocol of whatsoever byte it placed/requested. (so that --- (0000, 1111, 0100) could mean "gate# to xor for Block#" and forms a variable for that in its address. And that variable is registered to be used in its signal/pulse by design/circuit in anticipation of the request)---so when the request is made, the channel is ready.
+---It will then design as an emitter to which will select channel-streams of that data to be used in priority to the chain which is recieved.
