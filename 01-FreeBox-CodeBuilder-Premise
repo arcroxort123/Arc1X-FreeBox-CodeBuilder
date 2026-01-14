@@ -1,0 +1,46 @@
+1/14/2026
+This may or may not be an all original idea.
+The idea is that a series of circuits will be used in a contiguous way as a microchip.
+They will be built on stacks in blocks of a prioritized circuit chain.
+
+First Chain---
+  First Block---
+    First Stack---
+                Active               
+                Detected
+                Waiting
+                Copy
+                Transfer
+                Emulated---
+    Second Stack---
+                Known Emulation
+                Reiterated Check
+                Direct Pass
+                Indirect Fail
+                Count As Pending
+                Set To Attended---
+    Third Stack---
+                Achieve Read
+                Achieve Load
+                Achieve Parse
+                Achieve List
+                Achieve Code
+                Achieve Logic---
+    Fourth Stack---
+                As Xor
+                As Or
+                As And
+                As Nand
+                As Not
+                As Nor
+                As Xnor-B
+                As Off
+                As On
+                As Pending
+                As Switch/Either
+      Fifth Stack
+                As Repeat
+                As Comp
+
+So this basically allows for a full minecraft template of a switch/logic.
+              
