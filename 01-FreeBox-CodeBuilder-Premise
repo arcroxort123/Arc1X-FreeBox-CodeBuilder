@@ -146,3 +146,5 @@ Analog System may be checked
 Barebones compatibility may be checked
 ---
 Data auxilliary system channel may be initialized for testing/devops.
+---
+This process may be used to develop a SYSTEM-BUILTIN-VIRTUAL-TPM-MODULE DEVICE for testing/diagnostic.
