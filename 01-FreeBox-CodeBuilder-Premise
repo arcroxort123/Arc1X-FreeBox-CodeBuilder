@@ -148,4 +148,5 @@ Barebones compatibility may be checked
 Data auxilliary system channel may be initialized for testing/devops.
 ---
 This process may be used to develop a SYSTEM-BUILTIN-VIRTUAL-TPM-MODULE DEVICE for testing/diagnostic.
-This may be used as a BACKEND for DIAGNOSTICS
+This may be used as a BACKEND for DIAGNOSTICS under PLLCX performances and clocking settings within Limits/Excess Regulation/Practices.
+This is designed to be a safety-kit for data-analysis of the systems boot/performances.
