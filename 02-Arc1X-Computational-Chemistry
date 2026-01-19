@@ -88,7 +88,7 @@ This is a big deal and involves backrolling all the way to legacy for networked-
 ******************************
 --**This may be lamped encased
 
-Omni/Exometa XTAP/XSAP:(adapters) ---(this can be used as a tokamak)
+Omni/Exometa XTAP/XSAP:(adapters) ---(this can be used as a tokamak/throughpass)
 
 So we have the setup for the fuel injected cpu chiplet
 And we begin to generate prime/primitive meta-data for the virtualized/compute
