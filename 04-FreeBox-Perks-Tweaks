@@ -366,3 +366,4 @@ This can allow for a FREEBOX-CODER-DEVICE-ROUTER which handles address/binds for
 Anyways what does this looks like?
 It looks like a typical Server/Desktop with a "puck" external expansion/video-card. (This is from legacy-through-sandbox and has its own games installed)---and instead of just for games it uses "virtual-machine"/freebox-coder for its entire game.
 This is all vaulted/encrypted hence the use of the VINE-ROUTE/XCRYPT-DASHBOARD (being similar to a docker desktop dashboard / metric-broker in which images/readouts can be selected.)_--so there we go.
+Its all Quantum-Fueled/Quantum-Networked --we should be good.
