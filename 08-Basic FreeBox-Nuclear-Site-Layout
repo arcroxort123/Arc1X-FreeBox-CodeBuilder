@@ -346,6 +346,8 @@ STANDARD/CHAIN Attack/Intercept
 CHAMBER/SPECIAL
 POWERMOVE/SUPERCAST (empowered/enhanced)
 Auto/Basic (Rapid/Charge/Strength/Recurring/Explosive/MiniStun/MiniHold)
+---
+EscapeMoves:
 RiskMove:Emergency/StepOut/PhaseOut/LaunchOut/Freezer/Panic
 --Other MoveSet:
 ExtremeCaseOnly---AdminClearence
