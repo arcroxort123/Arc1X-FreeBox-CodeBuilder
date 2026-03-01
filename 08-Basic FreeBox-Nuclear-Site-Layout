@@ -346,6 +346,7 @@ STANDARD/CHAIN Attack/Intercept
 CHAMBER/SPECIAL
 POWERMOVE/SUPERCAST (empowered/enhanced)
 Auto/Basic (Rapid/Charge/Strength/Recurring/Explosive/MiniStun/MiniHold)
+RiskMove:Emergency/StepOut/PhaseOut/LaunchOut/Freezer/Panic
 --Other MoveSet:
 ExtremeCaseOnly---AdminClearence
 HALTER/EVAC/DisLodge/Desync (this can result in connection and network latency/issues in buffer/stream or frame/currency stability/turbulence)
