@@ -11,6 +11,8 @@ The compute handles the signal as language and interprets and responds to the in
 It may archive the signal as a ram/memory. Such that it can allocate/recall that data as needed.
 The instruction is the result of the signal received, and the response is given through language negotiations.
 ---Simply a computer, if not just an architecture of the computer, admist several other protocols.
+This is the first most raw layer in which security has determined the protocols allowed in handling data and also responding or not to that data.
+
 
 ---
 So as we have developed an instruction/communication rigg and language, we further allow research and computer-programming.
