@@ -12,8 +12,9 @@ It may archive the signal as a ram/memory. Such that it can allocate/recall that
 The instruction is the result of the signal received, and the response is given through language negotiations.
 ---Simply a computer, if not just an architecture of the computer, admist several other protocols.
 This is the first most raw layer in which security has determined the protocols allowed in handling data and also responding or not to that data.
+---This is the standard compute layers on a surface. And it follows all the protocols of its operation system given or in current.
 
-
+Next is the robotic layer, in which a more defined architecture may be profiled or applied.
 ---
 So as we have developed an instruction/communication rigg and language, we further allow research and computer-programming.
 We develop the physics engine to interpret signals and respond accordingly, to their instruction/formulas.
