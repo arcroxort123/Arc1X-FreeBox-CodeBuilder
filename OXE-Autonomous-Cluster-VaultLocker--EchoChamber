@@ -41,3 +41,6 @@ This can be used for diagnostic capability in achieving a more suited/safety con
 The snapshots can including: A PHASE1 Snapshot (LOAD)/ A PHASE2 SNAPSHOT (LOAD) / A IDLE SNAPSHOT (Runtime) / A HEAVY LOAD SnapShot (Sustained Load) / A CRITICAL CARE SNAPSHOT (failsafe/reserve snapshot) / A CURRENCY SNAPSHOT (current frame) / AND A POST-FAILURE SNAPSHOT (analog snapshot upon detection of system failure)
 These snapshots can be utilized in live-action to adjust for corrective profile/priotization of decklane/flagship tray/rack systems within the nas cluster. 
 This system takes OPTIONAL snapshots of each tray/rack and guages for temperature and faulty-installations etc.
+
+---
+AGENTIC AI-ALGORITHMIC ASSISTANT/ASSISTANCE can be achieved for each specified target/focality or individual component/module of the tray/rack for which is raid controlled and desginated via profile and onboard-customizations thereof. THE AI-IMAGE/META-IMAGE or other MODEL/TEST can be loaded and assigned in the performance of its socket/slot for which it is alloted/assorted/accomdated/availible.
