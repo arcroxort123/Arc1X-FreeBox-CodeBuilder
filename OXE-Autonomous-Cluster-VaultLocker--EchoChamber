@@ -490,24 +490,26 @@ This is now become the homunculus (with its data circulating and coalenscensing 
 ====
 This is the full-dive capable interactive existential virtualized environment. (It is used for special case deep-learning and immersive-research)
 The system looks like this:
-
+-(emissions/infrastructure)
  EleventhEyeDimensionSystem
  BIOS_PLATE 
  CyberPandemoniumContainment
  DarkFlowPortalSystem 
  DragonSparkEngine
- FengShuiBubbleJungleSystem
+-(indexing/recompile)
+FengShuiBubbleJungleSystem
  HyperSwarmingEngine 
  HyperwandScepterInterface 
  LimbicHomunculusBrainSystem
- PassthroughRaidController 
+==(thinking/simulation)
+PassthroughRaidController 
  PhaseTransitionManager 
  QuantumZeroGroundsSystem 
  RoboticTemperatureScanner 
  SteinDistrictSystem 
- TimesenseTimecrystalSystem
+-(assets/constructs)
+TimesenseTimecrystalSystem
  TRAY_RACK_COORDINATOR 
  TzolskinSegmentationSystem
  VectorMappingRouter 
-
 ----
