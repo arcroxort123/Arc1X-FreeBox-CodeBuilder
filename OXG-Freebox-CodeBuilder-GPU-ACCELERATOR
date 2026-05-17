@@ -16,9 +16,10 @@ Logic-Mod Pass to Gpu
 Re-Logic-Mod Pass to Gpu
 
 Then is template/prepsheet for the pass to accelerator
-The accelerator then decodes the template/prepsheet as it is fed and recalculates the gpu-data as to matchbase its virtualzied codestate
-The accelerator then integrates the data into the codestate and shells it to the cpu
-the cpu then allocates the codestate as needed for the onboard-driver for which interfaces with the cpu
+The accelerator then decodes the template/prepsheet as it is fed from the gpu-card or its link-out/cross-link
+This connection allows the accelerator to recalculate the gpu-data as to matchbase its virtualzied codestate (otherwise it works as well as a default sub-processor/sub-gpu non-dedicated/support-only : also not recommended due to potential conflict/issue with actual quantum data as intended/against the manufacture/purpose of the accelerator itself---which is to simply decode pipeline/acceleration fed by a template/prepsheet)
+The accelerator then integrates the data into the codestate and shells it to the cpu which shells it to the ram/driver for call.
+as stated, the cpu then allocates the codestate as needed for the onboard-driver for which interfaces with the cpu, it sources/origins the driver-data for the meta-engine/meta-image in host/support if in pipeline/acceleration of that feedback/loophole i.e. the game-space.
 
 The driver is tailored for the setup of a Gpu/Acceleration combined virtual codestate in which the cpu interfaces. And the driver can incorporate cpu-integration through which further data is pipelined into feed/loop of the intended chains/scripts for which are programmed by the corresponding meta-image. 
 This renders a desired platform/flagship to the source/origin of the data given, whether meta/generated or otherwise. (as is considered re-coded)
