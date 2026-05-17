@@ -24,3 +24,5 @@ as stated, the cpu then allocates the codestate as needed for the onboard-driver
 The driver is tailored for the setup of a Gpu/Acceleration combined virtual codestate in which the cpu interfaces. And the driver can incorporate cpu-integration through which further data is pipelined into feed/loop of the intended chains/scripts for which are programmed by the corresponding meta-image. 
 This renders a desired platform/flagship to the source/origin of the data given, whether meta/generated or otherwise. (as is considered re-coded)
 
+--The crosslink/link-out is generally the process/service chain which is the connection achieved (important with meta-iamges to be compatible or expected/evaluated)
+
