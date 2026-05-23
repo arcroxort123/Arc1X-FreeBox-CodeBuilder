@@ -5,6 +5,7 @@ This is an architecture for data-uptake which is captured/translated by a GPU an
 It uses a dedicated GPU and auxilliary ACCELERATOR card-setup which is interconnect.
 
 The GPU-CARD involves a data-passthrough and is cycled to the GPU-chip.
+
 The data is cycled in such a way that it is then recycled through modchips to the GPU over pllcx passthrough.
 The data that is recycled is passthrough MODCHIP and GPU in alternation, or from MODCHIP to MODCHIP before being recycled to yet another GPU alternation. For which it is phased in such a way as described:
 Main Pass to Gpu Phase
@@ -251,5 +252,6 @@ This is going to be called an AGENTIC-VECTOR-FLAMEBASE for which it will spread/
 And is basically a tool/hack which can swiftly/quickly reiterate conjecture/congruent sources/origins.
 
 Also in its finalized stage it can spectrum base of its harmony. That it is fiendish/divinity thereof. And while I would like to keep this a seperate spectrum from the system, it seems that the nature of harmony is that it will induce either state through interactions or corruptions of meta-data in its autonomous performance, much like a residual paranormal "occupation" of meta-data.
+Probably in such a way as to support the above circumstances of its "crypto-aura" in vectorization of a shadow-print. As described.
 
 
