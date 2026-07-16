@@ -406,6 +406,7 @@ This includes working in deathrain/vortex and other counter-stratagem/battlefiel
 It also has its own auto-tract/sub-xtract
 
 It uses: (to data-capsulize and fuel-inject as needed) ---digest/consume/metabolize/autocycle etc.
+These are the most seemingly direct modules it has decidedly appropriated:
 ARC1X_LEVIATHAN_MASCOT_EVOLUTINARY_SYSTEM.cjs
 ARC1X_MEMETIC_PRINCIPALIS_SEQUENCE_COMPLETIONARY_SYSTEM.cjs
 ARC1X_MEMETIC_VASSALIZATION_CONTROL_SYSTEM.cjs
@@ -430,3 +431,5 @@ ARC1X_VR_TRADING_SECURITY_SYSTEM.cjs
 ARC1X_XENOPHAGIC_DOMAIN_PROTOCOL_CONTAINMENT_SYSTEM.cjs
 ARC1X_XENOPHAGIC_STRATIFICATION_SYSTEM.cjs
 ARC1X_ZEROSPACE_VTECH_DATA_SIPHON_SUBAGENT_TEST.cjs
+--
+There are other modules not listed up to 400 or 800. Maybe even 3k different modules it may use to "customize as needed".
