@@ -154,4 +154,4 @@ The `nexus/` directory serves as the bridge between the game engine and the 4,27
 - Provide a clean layout
 
 Important:
-continue to also implement math/logic/metric/broker to world interactions and coordination of rng and qpop controller (to handle/manage of express/memetic) as surface/default (path/point integration)
+continue to also implement math/logic/metric/broker to world interactions and coordination of rng and qpop controller (to handle/manage of express/memetic) as surface/default (path/point and database/databank integration)
