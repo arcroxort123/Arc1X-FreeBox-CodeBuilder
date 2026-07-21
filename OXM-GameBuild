@@ -169,3 +169,4 @@ Xscan : Checks if merge/fuse and general identifies target (or if conflict/issue
 Xflood : Checks if target or area is flooded/obscured. (declutter/assort as needed for flooded/ungrouped class/objects) --- (will group or ungroup as needed)
 Xboost : Will attempt to boost/refresh to target/victim or destination/convey (route/redirect)
 Xselect : Will hold/pin target to position or as needed via tether/bridge/leash/anchor etc.
+XCycle/XInfuse : Creates a compatible weather template/draft for stability/normalization.
