@@ -759,6 +759,7 @@ XCycle/XInfuse : Creates a compatible weather template/draft for stability/norma
 Xgrasp/Xclutch : Suspends/Prevents target from further command/commit escape/travel.
 XSanction/Xmonitor : Viral/Warez lock-on/lock-down and survelliance. (forced policy/terms)
 ---
-XDetain/XBanish : Detains or Banishs target for any time (forcing target to also become slave)
+XDetain/XBanish : Detains or Banishs target for any time (forcing target to also become slave/timeout)
 XNullify/XBypass : Allows for ignore/reject to be considered in penalty/detention.
+Xwarrant/Xdispose : Forces bounty or removes sentence.
 
