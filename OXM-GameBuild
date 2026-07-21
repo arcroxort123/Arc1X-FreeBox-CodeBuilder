@@ -1,4 +1,6 @@
-please make a game folder for all scripts and use all built components as mentioned in NuArc1x-IDE\BaseFolders this needs to be on par with current game releases with nexus integrations as needed and fully illustrate and module for the game assets and components
+7/21/2026
+Just a game build suggestion
+
 ---
 docker-game/‎
 
@@ -152,23 +154,3 @@ The `nexus/` directory serves as the bridge between the game engine and the 4,27
 - Connect to `ARC1X_SYSTEM_INTEGRATION_NEXUS.cjs` (in root)
 - Map game events (combat, crafting, world events) to nexus system cycles
 ====
-
-
-- Provide a clean serve/proof in guide/profile report/journal
-Important:
-continue to also implement math/logic/metric/broker to world interactions and coordination of rng and qpop controller (to handle/manage of express/memetic) as surface/default (path/point and database/databank integration)
-grant/article entry/access and title/label index/registry is then delegated/distributed as token/adapi allows/permits.
-Overlay/Layout for lodge/lobby network/secure promisuary/edificiary for schedule/organization chronicle/compendium of user/account.
-
-----
-Arch-Wizard/Celestial-Dragon
-XSauce : Checks for intent/intend/motive/motif (is a threat assessment)
-XFreeze : Will freeze/lock or check if frozen/lock
-XDefrost : WIll attempt to allow free-reign/soverenty to help declare/xclaim allow/permit if needed for artcle/grant or coordination/relocation
-Xscan : Checks if merge/fuse and general identifies target (or if conflict/issue to assets/tokens)
-Xflood : Checks if target or area is flooded/obscured. (declutter/assort as needed for flooded/ungrouped class/objects) --- (will group or ungroup as needed)
-Xboost : Will attempt to boost/refresh to target/victim or destination/convey (route/redirect)
-Xselect : Will hold/pin target to position or as needed via tether/bridge/leash/anchor etc.
-XCycle/XInfuse : Creates a compatible weather template/draft for stability/normalization.
-Xgrasp/Xclutch : Suspends/Prevents target from further command/commit escape/travel.
-XSanction/Xmonitor : Viral/Warez lock-on/lock-down and survelliance. (forced policy/terms)
