@@ -758,5 +758,6 @@ Xselect : Will hold/pin target to position or as needed via tether/bridge/leash/
 XCycle/XInfuse : Creates a compatible weather template/draft for stability/normalization.
 Xgrasp/Xclutch : Suspends/Prevents target from further command/commit escape/travel.
 XSanction/Xmonitor : Viral/Warez lock-on/lock-down and survelliance. (forced policy/terms)
-
+---
+XNullify/XBypass : Allows for ignore/reject to be considered in penalty/detention.
 
