@@ -165,6 +165,6 @@ Arch-Wizard/Celestial-Dragon
 XSauce : Checks for intent/intend/motive/motif (is a threat assessment)
 XFreeze : Will freeze/lock or check if frozen/lock
 XDefrost : WIll attempt to allow free-reign/soverenty to help declare/xclaim allow/permit if needed for artcle/grant or coordination/relocation
-Xscan : Checks if merge/fuse and general identifies target
+Xscan : Checks if merge/fuse and general identifies target (or if conflict/issue to assets/tokens)
 Xflood : Checks if target or area is flooded/obscured.
-
+Xboost : Will attempt to boost/refresh to target/victim or destination/convey
