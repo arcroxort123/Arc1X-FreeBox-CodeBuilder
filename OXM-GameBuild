@@ -153,4 +153,5 @@ The `nexus/` directory serves as the bridge between the game engine and the 4,27
 
 - Connect to `ARC1X_SYSTEM_INTEGRATION_NEXUS.cjs` (in root)
 - Map game events (combat, crafting, world events) to nexus system cycles
+Provide a clean overview.
 ====
