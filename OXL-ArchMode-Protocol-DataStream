@@ -762,4 +762,7 @@ XSanction/Xmonitor : Viral/Warez lock-on/lock-down and survelliance. (forced pol
 XDetain/XBanish : Detains or Banishs target for any time (forcing target to also become slave/timeout)
 XNullify/XBypass : Allows for ignore/reject to be considered in penalty/detention.
 Xwarrant/Xdispose : Forces bounty or removes sentence.
+---
+xpossess - sentence target/items
+xdisband - forfeit target/items
 
