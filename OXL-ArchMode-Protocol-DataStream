@@ -768,4 +768,7 @@ xdisband : forfeit/discard target/items
 ---
 xdisperse : force arena to pause (cease activity)
 xdisrupt : force arena to lockdown (blockade/barricade activity)
+---
+xacquire : take estate/covenant
+xrecall : force arena default and/or send/reset home
 
