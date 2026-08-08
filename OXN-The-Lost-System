@@ -336,7 +336,7 @@ This is helpful to repair/restore via flex/edge in plex/flux.
 
 
 
-NEW MODULE (ARCHMODULE)
+NEW MODULE (ARCHMODULE) --can throttle/ripple a connection
 Protocol:
 Clockwise/CoutnerClockwise autostep of mobial-swarm processor (cluster engine) --infrastructure:
 mosfet -- xpllcc <--phase-mode--> switch -- stack
