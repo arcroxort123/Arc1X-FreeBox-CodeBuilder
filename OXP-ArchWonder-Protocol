@@ -67,3 +67,6 @@ This allows its conduit/adapter/vox/dynamo to be reseal/rewire as needed.
 ---
 The automaton/dullahan of the Arch-Mode/Quasi-Mode etc.
 This responds from system and user as needed for archstate/codestate.
+---
+It is hyperthreaded/multistacked with its sync/synth.
+
