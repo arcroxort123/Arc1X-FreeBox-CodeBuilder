@@ -73,7 +73,7 @@ It also has spectrum control from normal/hyper and carl/fenton fringes.
 This converts the above Arxh-Xambrosia into a confinement/maelstrom for which it is auto-supply/auto-convey/auto-chain/auto-relay such that it functions as fuelant/coolant/booster/powerup capsule/product etc. (The particle is managed/mitigated as needed for its xtype/metatype upon delivery/infusion/transmute/release etc)
 
 
-Some oversight
+Some oversight: "A SIMPLE TUTORIAL FOR KICKS"
 ---
 So here is a small example of how things look simple.
 Let's say I wanted to get some plasma, or use it for the system, and the system needs to be trained and understand what I am requesting.
