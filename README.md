@@ -1,0 +1,2 @@
+For all this work and its subject matter, I have done my best to illustrate and describe the my understanding of it as exact and reasonable as possible. (I want to to be as close to accurate as I could make it to be)
+I do not feel I over embellished it or strayed off topic at all, for this is my true interpretations written in the arrangement of it being. I give you that, at least, and a warning that it may be at times, 'too much information', but it is a truthful and noble attempt of that information. ImHO.
